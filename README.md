@@ -26,3 +26,5 @@ This is a webpage of an expense tracker application with minimalism design. The 
 ### Challenge and Results
 - Filter is now working properly - year filtering
 - Dynamic list render & conditional render
+- Dynamic Style
+- Chart Component to display highest paid months in a year"
