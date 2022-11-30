@@ -6,6 +6,10 @@ This is a webpage of an expense tracker application with minimalism design. The 
 
 https://user-images.githubusercontent.com/88943189/204827247-3a340462-4b36-4faf-8a59-e206b55cf709.mp4
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88943189/204831695-609b2cc7-7ec9-4e54-8299-05b1938128d4.png" />
+</p>
+
 ### Main Tools
 - React 18
 - Javascript
