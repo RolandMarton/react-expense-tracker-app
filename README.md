@@ -18,3 +18,11 @@ This is a webpage of an expense tracker application with minimalism design. The 
 - Use Composition
 - Create a perfectly working form with 3 alternative way of useState data management (individual useStates, one useState - 2 version)
 - Two-way databinding for form
+- Parent <-> Child communication (both direction, pointer functions)
+- Filter added
+
+## Development - Day 2 - 30/11/2022
+
+### Challenge and Results
+- Filter is now working properly - year filtering
+- Dynamic list render & conditional render
