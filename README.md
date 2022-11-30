@@ -2,6 +2,10 @@
 
 This is a webpage of an expense tracker application with minimalism design. The goal with this project to get a complete guide for React and practise everything related.
 
+## Current State of the App
+
+https://user-images.githubusercontent.com/88943189/204827247-3a340462-4b36-4faf-8a59-e206b55cf709.mp4
+
 ## Development - Day 1 - 29/11/2022
 
 ### Main Tools
