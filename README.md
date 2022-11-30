@@ -6,13 +6,13 @@ This is a webpage of an expense tracker application with minimalism design. The 
 
 https://user-images.githubusercontent.com/88943189/204827247-3a340462-4b36-4faf-8a59-e206b55cf709.mp4
 
-## Development - Day 1 - 29/11/2022
-
 ### Main Tools
 - React 18
 - Javascript
 - CSS
 - Visual Studio Code
+
+## Development - Day 1 - 29/11/2022
 
 ### Challenge and Results
 - Have different reusable components - minimalize code duplication
